@@ -45,7 +45,9 @@
         <input type="email" name="email" id="inputEmail" class="form-control" placeholder="Email" required autofocus>
         <label for="inputPassword" class="sr-only">Senha</label>
         <input type="password" name="senha" id="inputPassword" class="form-control" placeholder="Senha" required>
-        <button class="btn btn-lg btn-danger btn-block" type="submit">Acessar</button>
+        <input type="checkbox" class="form-check-input" id="exampleCheck1">
+        <label class="form-check-label" for="exampleCheck1">reCAPCTHA</label><br>
+        <br><button class="btn btn-lg btn-danger btn-block" type="submit">Acessar</button>
         <center><h5>Desenvolvido pela @edy informatica</h5></center>
       </form>
 	  <p class="text-center text-danger">
